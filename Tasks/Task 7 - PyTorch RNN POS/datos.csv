@@ -1,0 +1,51 @@
+sentence,tags
+El gato negro duerme plácidamente,DET NN ADJ V ADJ
+La niña pequeña juega felizmente,DET NN ADJ V ADJ
+El libro viejo está abierto,DET NN ADJ V ADJ
+El hombre cansado corre rápidamente,DET NN ADJ V ADJ
+La flor marchita está triste,DET NN ADJ V ADJ
+El niño llora desconsoladamente,DET NN V ADJ
+La casa grande es hermosa,DET NN ADJ V ADJ
+El coche rápido va por la carretera,DET NN ADJ V DET DET NN
+El árbol frondoso da sombra,DET NN ADJ V ADJ
+El sol brillante ilumina el día,DET NN ADJ V DET NN
+La puerta cerrada está bloqueada,DET NN ADJ V ADJ
+El viento fuerte sopla sin cesar,DET NN ADJ V DET NN
+El agua fría refresca,DET NN ADJ V
+El pájaro alegre canta melodías hermosas,DET NN ADJ V NN ADJ
+El chocolate derretido es delicioso,DET NN ADJ V ADJ
+La mujer elegante camina lentamente,DET NN ADJ V ADJ
+El perro ruidoso ladra sin parar,DET NN ADJ V DET ADJ
+El fuego ardiente quema la madera,DET NN ADJ V DET NN
+La montaña imponente es majestuosa,DET NN ADJ V ADJ
+El río tranquilo fluye sin prisa,DET NN ADJ V DET ADJ
+El bebé tierno sonríe adorablemente,DET NN ADJ V ADJ
+La silla rota no se puede usar,DET NN DET V DET DET V
+El ave libre vuela por el cielo,DET NN ADJ V DET DET NN
+El tren veloz pasa rápidamente,DET NN ADJ V ADJ
+La comida deliciosa hace agua la boca,DET NN ADJ V NN DET ADJ
+El reloj antiguo marca la hora correctamente,DET NN ADJ V DET NN ADJ
+El jardín hermoso está lleno de flores,DET NN ADJ V NN DET ADJ
+El hombre habla en voz alta,DET NN V DET NN ADJ
+La luz brillante está encendida,DET NN ADJ V ADJ
+El vaso vacío está sobre la mesa,DET NN ADJ V DET DET NN
+La música suave suena relajante,DET NN ADJ V ADJ
+El bebé travieso gatea rápidamente,DET NN ADJ V ADJ
+El sol radiante se pone en el horizonte,DET NN ADJ V DET DET NN ADJ
+La ventana abierta permite ver afuera,DET NN ADJ V V NN
+El niño estudioso se concentra en sus tareas,DET NN ADJ V ADJ DET DET NN
+La playa desierta invita a la tranquilidad,DET NN ADJ V DET DET ADJ
+El lápiz afilado dibuja líneas precisas,DET NN ADJ V NN ADJ
+La lluvia suave cae sobre el suelo,DET NN ADJ V NN DET NN
+El vendedor amable ofrece ayuda a los clientes,DET NN ADJ V V DET DET NN
+La nube blanca flota en el cielo azul,DET NN ADJ V DET DET NN ADJ
+El teléfono insistente suena constantemente,DET NN ADJ V ADJ
+La serpiente sigilosa se arrastra silenciosamente,DET NN ADJ DET V ADJ
+El balón redondo rebota en el suelo,DET NN ADJ V DET DET NN
+La pelota desinflada no rebota,DET NN ADJ V NN
+El niño emocionado salta con alegría,DET NN ADJ V DET ADJ
+La pared azul está pintada con precisión,DET NN ADJ V NN DET ADJ
+El sol caliente calienta el día de verano,DET NN ADJ V DET NN DET NN
+La puerta abierta de par en par invita a entrar,DET NN ADJ V NN V NN V DET V
+El perro juguetón persigue al gato velozmente,DET NN ADJ V DET NN ADJ
+La luna brillante brilla en el cielo nocturno,DET NN ADJ V  DET DET NN ADJ
